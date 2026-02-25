@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,email,company_name,job_title
+101,John,Smith,john.smith@acme.com,Acme Inc.,Software Engineer
+102,Jane,Doe,jane.doe@widgets.co,Widgets Co,Product Manager
+103,Peter,Jones,peter.jones@globex.corp,Globex Corporation,VP of Sales
+104,Mary,Jane,mary.jane@initech.com,Initech,Software Engineer
+105,Sam,Brown,sam.brown@dunder.com,Dunder Mifflin,Sales Representative
+106,John,Smith,j.smith@acme.com,Acme Inc.,Software Engineer
+107,Cynthia,,cynthia@techcorp.com,TechCorp,Lead Developer
+108,Robert,Green,bob.green@healthco.io,HealthCo,Chief Medical Officer
+109,William,Gates,bill.gates@microsoft.com,Microsoft,Co-founder
+110,Sarah,Connor,sconnor@cyberdyne.com,Cyberdyne Systems,Waitress
